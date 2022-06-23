@@ -1,4 +1,6 @@
-<movie name [D=ffff[D[D[D[D"[C[C[C">
-<food> [D[D name=meat>
-<[1;2o/movie>
-</food>
+<?xml version="1.0"?>
+<preferences>
+<movie_name>FFFFFF</movie_name>
+<food>balance_food</food>
+
+</preferences>

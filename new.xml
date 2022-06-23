@@ -1,7 +1,7 @@
-<Employee name="Иван Иванов">[D[D[D[D[D[D[D[D[D[D[D[D[D[3~[3~[3~[3~[3~[C[C[C[C[C[C[CNaumovich Katrin">
-<dog - K[D[name [D= [D"Kuzia">
-<salary>1000<salary[1;2o/>[[D[D[D[D[D[D/[2~sa[2~lary[A[A[A[D[D[D
-
-
-[A[A<[C[C[C[C[CStudent[3~[3~[3~ [B[B[C[C[C[C[C[C[C[C[C[C[C[C
-<Student[D[D[D[D[D[D[D/Student>
+<?xml version="1.0"?>
+<new>
+<Name>Ekaterina</Name>
+<Surname>Naumovich</Surname>
+<Pets>1dog</Pets>
+<Salary>600doll</Salary> 
+</new>

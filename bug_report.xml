@@ -1,4 +1,18 @@
-<movie name="fff">
-    <food name=meat>
-    </movie>
-    </food>
+<?xml version="1.0"?>
+<report>
+<Telegramnickname>katrin_naumovich</Telegramnickname>
+<Bug_id>105</Bug_id>
+<Title>Summary</Title>
+<Severity>Major</Severity>
+<Priority>Medium</Priority>
+<Environment>Redmi Note 6 Pro MIUI Global 12.0.1</Environment>
+
+<Precondition>1)Install androidTest application,2)Set the size of the grid 4*6, 5*6"]</Precondition>
+  
+<Steps>"1......2......</Steps>
+
+<Actual result>.......</Actual result>
+<Expected result>......</Expected result>
+
+<Attachments>......</Attachments>
+</report>
